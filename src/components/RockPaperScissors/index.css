@@ -1,0 +1,13 @@
+.popup-display {
+  background-color: #ffffff;
+  height: 500px;
+  border-radius: 17px;
+  width: 90%;
+}
+
+@media screen and (min-width: 768px) {
+  .popup-display {
+    height: 550px;
+    width: 650px;
+  }
+}
